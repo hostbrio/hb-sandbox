@@ -1,0 +1,14 @@
+# default owners
+*                 @hostbrio/frontend
+
+# app routes and pages
+/src/app/**       @hostbrio/frontend
+
+# github config and workflows
+/.github/**       @iyademowo @HostBrioHQ
+
+# lockfiles and package manifests
+/package.json     @iyademowo
+/pnpm-lock.yaml   @iyademowo
+/yarn.lock        @iyademowo
+/package-lock.json @iyademowo
